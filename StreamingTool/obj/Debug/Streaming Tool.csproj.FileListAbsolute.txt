@@ -1,0 +1,19 @@
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\bin\Debug\Streaming Tool.exe.config
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\bin\Debug\Streaming Tool.exe
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\bin\Debug\Streaming Tool.pdb
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming_Tool.Form1.resources
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming_Tool.Properties.Resources.resources
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming Tool.csproj.GenerateResource.Cache
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming Tool.exe
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming Tool.pdb
+D:\Repos\Streaming Tool\Streaming Tool\Streaming Tool\obj\Debug\Streaming Tool.csproj.CoreCompileInputs.cache
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\bin\Debug\Streaming Tool.exe.config
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\bin\Debug\Streaming Tool.exe
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\bin\Debug\Streaming Tool.pdb
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming Tool.csprojAssemblyReference.cache
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming_Tool.Form1.resources
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming_Tool.Properties.Resources.resources
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming Tool.csproj.GenerateResource.cache
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming Tool.csproj.CoreCompileInputs.cache
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming Tool.exe
+C:\Users\aholloway\Source\Repos\WMHStreamingClock\StreamingTool\obj\Debug\Streaming Tool.pdb
